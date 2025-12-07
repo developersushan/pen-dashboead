@@ -34,7 +34,7 @@ export default function RootLayout({
           <div>
             <Header />
           </div>
-          <div className="flex gap-5  py-6 px-4 xl:px-10 2xl:h-full bg-[#8aa7d6]">
+          <div className="flex gap-5  py-6 px-4 xl:px-10 h-screen overflow-y-auto bg-[#8aa7d6]">
             <div className="bg-[#b6c5dd] w-[300px] hidden xl:block rounded-2xl p-2.5">
               {" "}
               <Sidebar />
