@@ -10,67 +10,67 @@ export const sidebarData =[
         {
         id:2,
         name:"Users",
-        link:"/Users",
+        link:"/dashboard/users",
         icon:<Users />
     },
         {
         id:3,
         name:"Agencies",
-        link:"/Agencies",
+        link:"/dashboard/agency",
         icon:<Hospital />
     },
         {
         id:4,
         name:"Coin Management",
-        link:"/Coin Management",
+        link:"/dashboard/coin_management",
         icon:<CirclePoundSterling />
     },
         {
         id:5,
         name:"Live Streams",
-        link:"/Live Streams",
+        link:"/dashboard/live_streams",
         icon:<Radio />
     },
         {
         id:6,
         name:"Transaction History",
-        link:"/Transaction History",
+        link:"/dashboard/transaction-History",
         icon:<Clock9 />
     },
         {
         id:7,
         name:"PK Masters",
-        link:"/PK Masters",
+        link:"/dashboard/pK-Masters",
         icon:<Anchor />
     },
       {
         id:8,
         name:"Kyc Centre",
-        link:"/PK Masters",
+        link:"/dashboard/pK-Masters",
         icon:<House />
     },
 
       {
         id:9,
         name:"Moderation",
-        link:"/PK Masters",
+        link:"/dashboard/PK-Masters",
         icon:<House />
     },  {
         id:10,
         name:"Analytics",
-        link:"/PK Masters",
+        link:"/dashboard/pK-Masters",
         icon:<House />
     },
       {
         id:11,
         name:"Gifts & Assets",
-        link:"/PK Masters",
+        link:"/dashboard/pK-Masters",
         icon:<House />
     },
      {
         id:12,
         name:"Settings",
-        link:"/Settings",
+        link:"/dashboard/Settings",
         icon:<House />
     },
 
